@@ -1,0 +1,35 @@
+** 2. Quiz
+----------
+	1. Which option is a valid variable name and follows the Java naming conventions?
+
+		Asw/ timeUntilLaunch
+
+	2. What line of code declares a variable called numRabbits to store a whole number?
+
+		Asw/ int numRabbits;
+
+	3. What is the value of num?
+
+		int num = (10 - (4 + 3)) * 6;
+
+		Asw/ 18
+
+	4. Which line declares the variable bestProgrammingLanguage and initializes it to be "Java"?
+
+		Asw/ String bestProgrammingLanguage = "Java";
+
+	5. Which one of the following values is a valid char?
+
+		Asw/ 'F'
+
+	6. What datatype can only be assigned one of two values?
+	
+		Asw/ boolean
+
+	7. What value CANNOT be assigned to a variable with the datatype double.
+
+		Asw/ "60"
+
+	8. Which of the following lines would throw a compilation error?
+
+		Asw/ double isRaining = false;

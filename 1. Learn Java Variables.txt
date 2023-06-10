@@ -1,4 +1,4 @@
-* 1. Learn Java: Variables
+** 1. Learn Java: Variables
 --------------------------
 * Introduction
 --------------
