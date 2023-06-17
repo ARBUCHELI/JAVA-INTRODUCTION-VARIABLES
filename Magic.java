@@ -2,7 +2,7 @@ public class Magic {
 	public static void main(String[] args) {
     // myNumber will be referred as the original number
     int myNumber = 9;
-		int stepOne = myNumber * myNumber;
+	int stepOne = myNumber * myNumber;
     int stepTwo = stepOne + myNumber;
     int stepThree = stepTwo / myNumber;
     int stepFour = stepThree + 17;
