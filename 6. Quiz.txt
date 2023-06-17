@@ -1,0 +1,48 @@
+** QUIZ
+-------
+	1. Which operator can be used to concatenate two Strings?
+	Asw/ +
+
+	2. To what value does the following string concatenation evaluate?
+		"It's " + 5 + "pm"
+	Asw/ "It's 5pm"
+
+	3. After the following code is run, what value will the variable endpoint be assigned to?
+		int endpoint = 11 % 3;
+	Asw/ 2
+
+	4. What is the best way to tell if the following two Strings are equal?
+		String username1 = "teracoder";
+		String username2 = "gigacoder";
+	Asw/ username1.equals(username2);
+
+	5. What does the following code do?
+		System.out.println(8 <= 8);
+	Asw/ Prints true
+
+	6. What will the following program output?
+		int num = 12;
+		num *= 2;
+		num -= 4;
+		num++;
+		System.out.println(num);
+	Asw/ 21
+
+	7. The expression 5 != 6 will evaluate to what value?
+	Asw/ true
+
+	8. True or False: The value of a variable declared with the final keyword can be changed after its initial declaration.
+	Asw/ False
+
+	9. How could we get a result of 10, given the following variable?
+		double a = 2;
+	Asw/ a * 5
+
+	10. Are there any errors in this Java statement?
+		int status = 7 < 8;
+	Asw/ Yes, int should be boolean
+
+
+
+
+
