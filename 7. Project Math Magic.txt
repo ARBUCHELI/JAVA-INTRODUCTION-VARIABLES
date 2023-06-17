@@ -1,0 +1,11 @@
+** 7. Project: Math Magic
+-------------------------
+* Math Magic
+------------
+	In this project, you will become a mathemagician and write a small program that performs a mathematical magic trick! It will involve performing arithmetic operations on an integer 
+	that you choose.
+
+	The instructions provided are general guidelines. Upon completion of the project, feel free to explore the code on your own.
+
+	If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
+
